@@ -26,7 +26,10 @@
 
 ## 📊 GitHub Stats  
 
-md<br>## 📈 Contribution Graph<br>![Contribution Graph - Classic](https://github-contributions.vercel.app/api?username=amaan-mulani&theme=github-classic)<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-mulani&layout=compact&theme=radical" height="150" />
+</p>
 
 ---
 
@@ -76,8 +79,8 @@ md<br>## 📈 Contribution Graph<br>![Contribution Graph - Classic](https://gith
 
 ---
 
-## 📈 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amaan-mulani&theme=react-dark)
+## 📈 Contribution Graph 
+![Contribution Graph - Classic](https://github-contributions.vercel.app/api?username=amaan-mulani&theme=github-dark)
 
 ---
 
