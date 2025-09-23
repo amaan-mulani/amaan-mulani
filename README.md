@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaanmulani&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanmulani&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-mulani&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 <details>
   <summary>📌 C++ & SQL Projects</summary>
   
-  - 🎉 [Campus Event Management System](https://github.com/amaanmulani/Campus-Event-Management-System)  
+  - 🎉 [Campus Event Management System](https://github.com/amaan-mulani/Campus-Event-Management-System)  
   - 🔐 Login System with SQL integration  
   - 🧮 Algorithms: Palindrome, Prime Numbers, Anagrams  
 </details>
@@ -79,16 +79,16 @@
 ---
 
 ## 📈 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amaanmulani&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amaan-mulani&theme=react-dark)
 
 ---
 
 ## 🤝 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanmulani)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:amaanmulani@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white)](https://amaanmulani.github.io)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-mulani)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:amaanmulani0109@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white)](https://amaan-mulani.github.io)  
 
 ---
 
-⭐️ From [Amaan Mulani](https://github.com/amaanmulani)
+⭐️ From [Amaan Mulani](https://github.com/amaan-mulani)
