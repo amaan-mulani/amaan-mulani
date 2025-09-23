@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amaan  
 
-💻 **Postgraduate Student | Software Developer (MERN + C++)**  
+💻 **Postgraduate Student | Developer (MERN + WordPress + C++)**  
 
 ---
 
@@ -24,19 +24,9 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-mulani&layout=compact&theme=radical" height="150" />
-</p>
-
----
-
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript"/>
@@ -48,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="CSS3"/>
 </p>
+
 ---
 
 ## 📂 Featured Projects  
@@ -79,20 +70,20 @@
 
 ---
 
-## 📈 Contribution Graph - Classic
-![Contribution Graph - Classic](https://github-contributions.vercel.app/api?username=amaan-mulani&theme=github-dark)
+## 📈 Contribution Graph  
 
+![Contribution Graph](https://ghchart.rshah.org/amaan-mulani)
 
 ---
 
 ## 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amaanmulani" target="_blank">
+  <a href="https://www.linkedin.com/in/amaan-mulani" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:amaanmulani@gmail.com">
+  <a href="mailto:amaanmulani0109@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40px" alt="Email"/>
   </a>
   &nbsp;&nbsp;
