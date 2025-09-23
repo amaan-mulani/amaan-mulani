@@ -86,9 +86,19 @@
 
 ## 🤝 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-mulani)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:amaanmulani0109@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white)](https://amaan-mulani.github.io)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/amaanmulani" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:amaanmulani@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40px" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://amaanmulani.github.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
