@@ -26,10 +26,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-mulani&layout=compact&theme=radical" height="150" />
-</p>
+md<br>## 📈 Contribution Graph<br>![Contribution Graph - Classic](https://github-contributions.vercel.app/api?username=amaan-mulani&theme=github-classic)<br>
 
 ---
 
