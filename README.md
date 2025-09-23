@@ -79,8 +79,9 @@
 
 ---
 
-## 📈 Contribution Graph 
+## 📈 Contribution Graph - Classic
 ![Contribution Graph - Classic](https://github-contributions.vercel.app/api?username=amaan-mulani&theme=github-dark)
+
 
 ---
 
