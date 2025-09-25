@@ -10,8 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=default&hide_border=true&v=2" height="180em"/>
   
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=amaan-mulani&theme=default&hide_border=true&v=2" height="180em"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amaan-mulani&theme=default&hide_border=true" alt="GitHub Streak"/>
+
 
 ---
 
