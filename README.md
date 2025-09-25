@@ -3,6 +3,13 @@
 💻 **Postgraduate Student | Developer (MERN + WordPress + C++)**  
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=react&hide_border=true" alt="Amaan's GitHub stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-mulani&theme=react&hide_border=true" alt="Amaan's GitHub streak" height="180em"/>
+</p>
+---
 
 ## 🚀 About Me  
 - 🎓 Pursuing **Postgraduate studies**, learning everything from **scratch**  
