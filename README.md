@@ -29,18 +29,20 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=default&hide_border=true&v=2" height="180em"/>
-  <img src="https://streak-stats.demolab.com?user=amaan-mulani&theme=default&hide_border=true&v=2" height="180em"/>
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=react&hide_border=false&count_private=true&include_all_commits=true" height="180em"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=amaan-mulani&theme=react-dark&hide_border=false" height="180em"/>
 </p>
 
----
-
-## 📈 Contribution Graph  
-
-![Amaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaan-mulani&theme=github-light&hide_border=true&area=true&v=2)
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-mulani&layout=compact&theme=react&hide_border=false" />
+</p>
 
 ---
 
