@@ -25,14 +25,6 @@
 </p>
 
 <!-- Animated Progress Bars -->
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-90%25-blue?style=for-the-badge&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/SQL-85%25-1A73E8?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/HTML-70%25-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-70%25-2965F1?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JS-60%25-F7DF1E?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-50%25-61DAFB?style=for-the-badge&logo=react"/>
-</p>
 
 
 ---
