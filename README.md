@@ -1,12 +1,7 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A73E8&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Amaan;Software+Tester+%7C+Developer;MERN+Stack+Learner;Always+learning+new+things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amaan;Software+Tester+%7C+Developer;MERN+Stack+Learner" />
 </h1>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
-</p>
 
 ---
 
@@ -15,14 +10,6 @@
 - ✅ Completed **C++** and **SQL**  
 - 🌱 Currently learning **Frontend Development (MERN)**  
 - 🎯 Aspiring **Software Tester + Full-Stack Developer**  
-- ⚡ Fun fact: *I break things… then fix them better!*  
-
----
-
-<!-- Coding Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
-</p>
 
 ---
 
@@ -32,14 +19,14 @@
   <img src="https://skillicons.dev/icons?i=cpp,mysql,html,css,js,react,nodejs,express,mongodb,wordpress,github" />
 </p>
 
-<!-- Animated Skill Bars -->
+<!-- Clean Progress Bars -->
 <p align="center">
-  <img src="https://progress-bar.dev/90/?title=C%2B%2B" />  
-  <img src="https://progress-bar.dev/85/?title=SQL" />  
-  <img src="https://progress-bar.dev/70/?title=HTML" />  
-  <img src="https://progress-bar.dev/70/?title=CSS" />  
-  <img src="https://progress-bar.dev/60/?title=JavaScript" />  
-  <img src="https://progress-bar.dev/50/?title=React" />  
+  <img src="https://progress-bar.dev/90/?title=C%2B%2B&color=0077B5" />  
+  <img src="https://progress-bar.dev/85/?title=SQL&color=1A73E8" />  
+  <img src="https://progress-bar.dev/70/?title=HTML&color=F16529" />  
+  <img src="https://progress-bar.dev/70/?title=CSS&color=2965F1" />  
+  <img src="https://progress-bar.dev/60/?title=JavaScript&color=F7DF1E" />  
+  <img src="https://progress-bar.dev/50/?title=React&color=61DAFB" />  
 </p>
 
 ---
@@ -59,13 +46,10 @@
 
 ---
 
-## ⚽ Beyond Coding  
+## ⚽ Hobbies  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut8c6Y/giphy.gif" width="60"/> 🏋️ Working out &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="60"/> 🏃 Running &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/> ⚽ Playing sports &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/l0HlPjezHf3hC2fxC/giphy.gif" width="60"/> 🎮 Gaming
+  🏋️ Working out &nbsp;&nbsp; 🏃 Running &nbsp;&nbsp; ⚽ Playing sports &nbsp;&nbsp; 🎮 Gaming
 </p>
 
 ---
