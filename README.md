@@ -9,24 +9,29 @@
 - 🎓 Postgraduate student learning everything **from scratch**  
 - ✅ Completed **C++** and **SQL**  
 - 🌱 Currently learning **Frontend Development (MERN)**  
-- 🎯 Aspiring **Software Tester + Full-Stack Developer**  
+- 🎯 Aspiring **Full-Stack Developer**  
 
 ---
 
 ## 🛠️ Skills & Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,mysql,html,css,js,react,nodejs,express,mongodb,wordpress,github" />
+  <a href="#" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#" title="SQL"><img src="https://skillicons.dev/icons?i=mysql" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </p>
 
-<!-- Clean Progress Bars -->
+<!-- Animated Progress Bars -->
 <p align="center">
-  <img src="https://progress-bar.dev/90/?title=C%2B%2B&color=0077B5" />  
-  <img src="https://progress-bar.dev/85/?title=SQL&color=1A73E8" />  
-  <img src="https://progress-bar.dev/70/?title=HTML&color=F16529" />  
-  <img src="https://progress-bar.dev/70/?title=CSS&color=2965F1" />  
-  <img src="https://progress-bar.dev/60/?title=JavaScript&color=F7DF1E" />  
-  <img src="https://progress-bar.dev/50/?title=React&color=61DAFB" />  
+  <img src="https://progress-bar.dev/90/?title=C%2B%2B&color=0077B5&animation=1" />  
+  <img src="https://progress-bar.dev/85/?title=SQL&color=1A73E8&animation=1" />  
+  <img src="https://progress-bar.dev/70/?title=HTML&color=F16529&animation=1" />  
+  <img src="https://progress-bar.dev/70/?title=CSS&color=2965F1&animation=1" />  
+  <img src="https://progress-bar.dev/60/?title=JavaScript&color=F7DF1E&animation=1" />  
+  <img src="https://progress-bar.dev/50/?title=React&color=61DAFB&animation=1" />  
 </p>
 
 ---
