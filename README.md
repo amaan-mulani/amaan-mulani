@@ -70,9 +70,10 @@
 
 ---
 
-## 📈 Contribution Graph  
+## 📈 Contribution Graph
 
-![Contribution Graph](https://ghchart.rshah.org/amaan-mulani)
+![Amaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaan-mulani&theme=react-dark&hide_border=true)
+
 
 ---
 
