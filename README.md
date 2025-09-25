@@ -7,17 +7,18 @@
 
 <p align="center">
   <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=default&hide_border=true" alt="Amaan's GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=default&hide_border=true&v=2" height="180em"/>
   
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=amaan-mulani&theme=default&hide_border=true" alt="Amaan's GitHub streak" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=amaan-mulani&theme=default&hide_border=true&v=2" height="180em"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Amaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaan-mulani&theme=github-light&hide_border=true&area=true)
+![Amaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaan-mulani&theme=github-light&hide_border=true&area=true&v=2)
+
 
 ---
 
