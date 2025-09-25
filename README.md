@@ -1,106 +1,86 @@
-# 👋 Hi, I'm Amaan  
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A73E8&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Amaan;Software+Tester+%7C+Developer;MERN+Stack+Learner;Always+learning+new+things!" />
+</h1>
 
-💻 **Postgraduate Student | Developer (MERN + WordPress + C++)**  
-
----
-## 📊 GitHub Stats
-
+<!-- Animated Divider -->
 <p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=default&hide_border=true&v=2" height="180em"/>
-  
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amaan-mulani&theme=default&hide_border=true" alt="GitHub Streak"/>
-
-
----
-
-## 📈 Contribution Graph
-
-![Amaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaan-mulani&theme=github-light&hide_border=true&area=true&v=2)
-
-
----
-
-## 🚀 About Me  
-- 🎓 Pursuing **Postgraduate studies**, learning everything from **scratch**  
-- ✅ Completed **C++** and **SQL** foundations  
-- 🌱 Currently exploring **Front-End Web Development** with the **MERN Stack**  
-- 🎯 Goal: Become a **Software Developer**  
-- ⚡ Fun fact: I love breaking and fixing code until it works better!  
-
----
-
-## 🛣️ Learning Roadmap  
-
-- ✅ **C++ (Basics, OOP, STL)**  
-- ✅ **SQL (Queries, Joins, Triggers)**  
-- 🔜 **Frontend (HTML, CSS, JavaScript, React)**  
-- 🔜 **MERN Stack (MongoDB, Express, React, Node.js)**  
-- 🔜 **DevOps**  
-- 🔜 **Full-Stack Projects & Open Source Contributions**  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50px" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="CSS3"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
 </p>
 
 ---
 
-## 📂 Featured Projects  
+## 🚀 About Me  
+- 🎓 Postgraduate student learning everything **from scratch**  
+- ✅ Completed **C++** and **SQL**  
+- 🌱 Currently learning **Frontend Development (MERN)**  
+- 🎯 Aspiring **Software Tester + Full-Stack Developer**  
+- ⚡ Fun fact: *I break things… then fix them better!*  
 
-<details>
-  <summary>📌 C++ & SQL Projects</summary>
-  
-  - 🎉 [Campus Event Management System](https://github.com/amaan-mulani/Campus-Event-Management-System)  
-  - 🔐 Login System with SQL integration  
-  - 🧮 Algorithms: Palindrome, Prime Numbers, Anagrams  
-</details>
+---
 
-<details>
-  <summary>🌐 Web Development (MERN + WordPress)</summary>
-  
-  - ⚡ Front-End React apps (in progress)  
-  - 🌐 Freelance WordPress Websites  
-  - 🎨 Custom themes & plugins  
-</details>
+<!-- Coding Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🛠️ Skills & Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,mysql,html,css,js,react,nodejs,express,mongodb,wordpress,github" />
+</p>
+
+<!-- Animated Skill Bars -->
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=C%2B%2B" />  
+  <img src="https://progress-bar.dev/85/?title=SQL" />  
+  <img src="https://progress-bar.dev/70/?title=HTML" />  
+  <img src="https://progress-bar.dev/70/?title=CSS" />  
+  <img src="https://progress-bar.dev/60/?title=JavaScript" />  
+  <img src="https://progress-bar.dev/50/?title=React" />  
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=default&hide_border=true&v=2" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=amaan-mulani&theme=default&hide_border=true&v=2" height="180em"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+![Amaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaan-mulani&theme=github-light&hide_border=true&area=true&v=2)
 
 ---
 
 ## ⚽ Beyond Coding  
 
-- 🏋️ Working out at the gym  
-- 🏃 Running & staying active  
-- ⚽ Playing sports (football, swimming, etc.)  
-- 🎮 Casual gaming & fun challenges  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut8c6Y/giphy.gif" width="60"/> 🏋️ Working out &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="60"/> 🏃 Running &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/> ⚽ Playing sports &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/l0HlPjezHf3hC2fxC/giphy.gif" width="60"/> 🎮 Gaming
+</p>
 
 ---
 
 ## 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amaan-mulani" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/amaanmulani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:amaanmulani0109@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40px" alt="Email"/>
+  <a href="mailto:amaanmulani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://amaanmulani.github.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
