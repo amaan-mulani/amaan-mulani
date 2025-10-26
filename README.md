@@ -7,8 +7,8 @@
 
 ## 🚀 About Me  
 - 🎓 Postgraduate student learning everything **from scratch**  
-- ✅ Completed **C++** and **SQL**  
-- 🌱 Currently learning **Frontend Development (MERN)**  
+- ✅ Completed **C++** , **SQL** , **MERN** & **DotNet**
+- 🌱 Currently learning **Core Java**  
 - 🎯 Aspiring **Full-Stack Developer**  
 
 ---
@@ -22,6 +22,8 @@
   <a href="#" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#" title="C#"><img src="https://skillicons.dev/icons?i=csharp" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
 </p>
 
 <!-- Animated Progress Bars -->
