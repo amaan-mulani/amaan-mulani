@@ -34,10 +34,6 @@
 <p align="center">
   <!-- Overall GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=amaan-mulani&show_icons=true&theme=react&hide_border=false&count_private=true&include_all_commits=true" height="180em"/>
-  
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=amaan-mulani&theme=react-dark&hide_border=false" height="180em"/>
-</p>
 
 <!-- Top Languages -->
 <p align="center">
@@ -57,14 +53,14 @@
 ## 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amaan-mulani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/amaan-mulani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:amaanmulani@gmail.com">
+  <a href="mailto:amaanmulani0109@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/amaan-mulani" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.hackerrank.com/profile/amaanmulani0109" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
 
