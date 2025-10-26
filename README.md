@@ -55,8 +55,8 @@
   <a href="mailto:amaanmulani0109@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.hackerrank.com/profile/amaanmulani0109" target="_blank" title="HackerRank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" width="60" />
+  <a href="https://www.hackerrank.com/amaan-mulani0109" target="_blank" title="HackerRank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 
