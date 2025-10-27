@@ -57,9 +57,13 @@
   <a href="mailto:amaanmulani0109@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.hackerrank.com/amaan-mulani0109" target="_blank" title="HackerRank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+  <a href="https://www.hackerrank.com/amaan-mulani" target="_blank" title="HackerRank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" 
+       width="65" 
+       style="transition: transform 0.3s; border-radius: 10px;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
 </p>
 
 ---
