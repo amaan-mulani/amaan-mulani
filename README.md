@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - 🎓 Postgraduate student learning everything **from scratch**  
 - ✅ Completed **C++** , **SQL** , **MERN** & **DotNet**
-- 🌱 Currently learning **Core Java**  
+- 🌱 Currently learning **Aptitude & Oracle**  
 - 🎯 Aspiring **Full-Stack Developer**  
 
 ---
