@@ -64,6 +64,13 @@
        onmouseover="this.style.transform='scale(1.2)'" 
        onmouseout="this.style.transform='scale(1)'" />
 </a>
+  <a href="https://leetcode.com/u/amaan_mulani/" target="_blank" title="LeetCode">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" 
+         width="60" 
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
 </p>
 
 ---
